@@ -78,7 +78,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/railsruby](https://github.com/DotEsparto1/railsruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|84<br/>Tools used|11/10/23 <br/>Report generated|
+|84<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -455,4 +455,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
