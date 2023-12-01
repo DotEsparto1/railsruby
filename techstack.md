@@ -20,9 +20,11 @@ DotEsparto1/railsruby is built on the following main stack:
 - [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [Rake](https://github.com/ruby/rake) – Task Management
 - [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
 - [RuboCop](http://batsov.com/rubocop/) – Code Review
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Bundler](http://bundler.io) – Front End Package Manager
 - [ESLint](http://eslint.org/) – Code Review
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
@@ -59,9 +61,11 @@ DotEsparto1/railsruby is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/' alt='Rake'/> [Rake](https://github.com/ruby/rake) – Task Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2988/4e77LXIo_400x400.png' alt='Bundler'/> [Bundler](http://bundler.io) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
@@ -82,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/railsruby](https://github.com/DotEsparto1/railsruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|84<br/>Tools used|11/30/23 <br/>Report generated|
+|88<br/>Tools used|12/01/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -213,12 +217,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (17)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (18)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'>
   <br>
   <sub><a href="http://babeljs.io/">Babel</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2988/4e77LXIo_400x400.png' alt='Bundler'>
+  <br>
+  <sub><a href="http://bundler.io">Bundler</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -271,7 +283,9 @@ Full tech stack [here](/techstack.md)
   <sub>v0.11.2</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'>
   <br>
   <sub><a href="http://karma-runner.github.io/">Karma</a></sub>
@@ -279,9 +293,7 @@ Full tech stack [here](/techstack.md)
   <sub>v3.1.4</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'>
   <br>
   <sub><a href="http://puma.io/">Puma</a></sub>
@@ -337,7 +349,9 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
   <br>
   <sub><a href="https://www.npmjs.com/">npm</a></sub>
@@ -345,9 +359,7 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'>
   <br>
   <sub><a href="http://rollupjs.org/">rollup</a></sub>
@@ -379,7 +391,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'>
@@ -389,13 +401,21 @@ Full tech stack [here](/techstack.md)
   <sub>v1.15.0</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/' alt='Rake'>
+  <br>
+  <sub><a href="https://github.com/ruby/rake">Rake</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (50)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (52)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (43)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (45)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -412,14 +432,16 @@ Full tech stack [here](/techstack.md)
 |[json](https://rubygems.org/json)|v2.6.3|N/A|N/A |Ruby|N/A|
 |[libxml-ruby](https://rubygems.org/libxml-ruby)|v4.0.0|N/A|N/A |MIT|N/A|
 |[listen](https://rubygems.org/listen)|v3.8.0|N/A|N/A |MIT|N/A|
+|[mail](https://rubygems.org/mail)|v2.8.0|N/A|N/A |MIT|N/A|
 |[minitest](https://rubygems.org/minitest)|v5.17.0|N/A|N/A |MIT|N/A|
 |[msgpack](https://rubygems.org/msgpack)|v1.7.0|N/A|N/A |Apache-2.0|N/A|
 |[mysql2](https://rubygems.org/mysql2)|v0.5.4|N/A|N/A |MIT|N/A|
 |[nokogiri](https://rubygems.org/nokogiri)|v1.15.2|N/A|N/A |MIT|N/A|
 |[pg](https://rubygems.org/pg)|v1.5.3|N/A|N/A |BSD-2-Clause|N/A|
 |[racc](https://rubygems.org/racc)|v1.6.2|N/A|N/A |BSD-2-Clause|N/A|
+|[rack](https://rubygems.org/rack)|v3.0.8|N/A|N/A |MIT|N/A|
 |[rack-cache](https://rubygems.org/rack-cache)|v1.13.0|N/A|N/A |MIT|N/A|
-|[rake](https://rubygems.org/rake)|v13.0.6|N/A|N/A |MIT|N/A|
+|[rack-test](https://rubygems.org/rack-test)|v2.1.0|N/A|N/A |MIT|N/A|
 |[rdoc](https://rubygems.org/rdoc)|v6.5.0|N/A|N/A |Ruby|N/A|
 |[redcarpet](https://rubygems.org/redcarpet)|v3.2.3|N/A|N/A |MIT|[CVE-2020-26298](https://github.com/advisories/GHSA-q3wr-qw3g-3p4h) (Moderate)|
 |[redis-namespace](https://rubygems.org/redis-namespace)|v1.10.0|N/A|N/A |MIT|N/A|
