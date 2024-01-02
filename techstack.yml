@@ -1,7 +1,8 @@
 repo_name: DotEsparto1/railsruby
-report_id: 6577c3d74edadc5b7a96e4383bdd859d
+report_id: 9506393f05d25cb5b5b1689d69feaf54
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-11T15:30:18+00:00'
+timestamp: '2024-01-02T14:44:37+00:00'
 requested_by: p8
 provider: github
 branch: main
@@ -79,7 +80,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actionview/package.json
   last_updated_by: Lachlan Sylvester
   last_updated_on: 2022-10-08 12:34:42.000000000 Z
@@ -138,7 +139,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jean Boussier
   last_updated_on: 2022-09-06 20:23:50.000000000 Z
@@ -163,7 +164,7 @@ tools:
   category: Data Stores
   sub_category: Background Processing
   image_url: https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuuji.yaginuma
   last_updated_on: 2017-10-09 11:49:55.000000000 Z
@@ -200,7 +201,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2595/capybara.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Haroon Ahmed
   last_updated_on: 2022-12-27 22:00:36.000000000 Z
@@ -257,7 +258,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actionmailbox/test/dummy/config/database.yml
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2018-09-18 00:48:32.000000000 Z
@@ -271,7 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: rmacklin
   last_updated_on: 2018-11-26 22:16:02.000000000 Z
@@ -285,7 +286,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1055/favicon.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -299,7 +300,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: Jon Moss
   last_updated_on: 2016-05-07 14:41:23.000000000 Z
@@ -313,7 +314,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: ".github/workflows/rubocop.yml"
   last_updated_by: Yasuo Honda
   last_updated_on: 2019-11-26 05:28:06.000000000 Z
@@ -338,7 +339,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actiontext/package.json
   last_updated_by: Sarah Ridge
   last_updated_on: 2023-03-15 02:06:05.000000000 Z
@@ -419,7 +420,7 @@ tools:
   category: Application Utilities
   sub_category: Ruby Utilities
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Prathamesh Sonpatki
   last_updated_on: 2019-04-26 07:25:28.000000000 Z
@@ -457,7 +458,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19078/default_4df61286a41b221e05fffb41a1003ffc1a8eaf4e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: George Claghorn
   last_updated_on: 2018-12-24 20:16:22.000000000 Z
@@ -471,7 +472,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Xavier Noria
   last_updated_on: 2016-08-06 17:23:19.000000000 Z
@@ -485,7 +486,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19069/default_5f9f148b380c6e53dd11ecf4121a9aa0355b667e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Ryuta Kamizono
   last_updated_on: 2021-05-24 21:11:38.000000000 Z
@@ -499,7 +500,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19074/default_2e9c033b6302a01627d902d2861bf6f4d9e4f39a.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: zzak
   last_updated_on: 2023-01-25 02:26:34.000000000 Z
@@ -513,7 +514,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19097/default_a446ce2f074889d1160eee4b4a2fde34af7525e6.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Rafael Mendonça França
   last_updated_on: 2021-10-14 17:48:04.000000000 Z
@@ -527,7 +528,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19157/default_c8270617b11a0e0bb186cecf4527f28719105688.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuuji.yaginuma
   last_updated_on: 2017-12-29 21:57:28.000000000 Z
@@ -541,7 +542,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19216/default_e38d6385c75dafbe16c1c806ccf1fd483b747794.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: George Claghorn
   last_updated_on: 2018-12-24 20:16:22.000000000 Z
@@ -555,7 +556,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19475/default_81690d247196955ca3fe91bb0ecf66885f7c2edf.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Petrik
   last_updated_on: 2021-08-23 19:17:59.000000000 Z
@@ -569,7 +570,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jonathan Hefner
   last_updated_on: 2022-10-03 22:26:04.000000000 Z
@@ -583,7 +584,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18822/default_19184669508c0f71aec9521d5f14d71b77203130.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Akira Matsuda
   last_updated_on: 2016-11-15 00:26:03.000000000 Z
@@ -598,7 +599,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19014/default_4a7d337d343ba3aa0e0f5fbe745cfb34afef4187.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: eileencodes
   last_updated_on: 2023-04-19 20:46:10.000000000 Z
@@ -613,7 +614,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18942/default_a51418802dbfb428c729400211798b5046fe4140.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jonathan Hefner
   last_updated_on: 2020-11-10 15:52:20.000000000 Z
@@ -627,7 +628,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18937/default_ec64e7b00489c2b012b637eba2526e31e442c25b.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: actionmailbox/actionmailbox.gemspec
   last_updated_by: Abhay Nikam
   last_updated_on: 2020-03-26 06:21:37.000000000 Z
@@ -642,7 +643,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18818/default_f36df1cfa9ff6061d7f9b4879088be8538581c49.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: eileencodes
   last_updated_on: 2022-06-15 16:44:11.000000000 Z
@@ -656,7 +657,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19051/default_76e060fe9703f2b60ce4bc4f9e2633d27597740f.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jonathan Hefner
   last_updated_on: 2023-03-22 21:37:46.000000000 Z
@@ -670,7 +671,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18883/default_947bd37125b8812cb816bc3cf571b13df90a4fe0.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jean Boussier
   last_updated_on: 2022-05-04 11:00:35.000000000 Z
@@ -684,7 +685,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Ryuta Kamizono
   last_updated_on: 2021-01-05 12:52:07.000000000 Z
@@ -698,7 +699,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -712,7 +713,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19231/default_a7e5b53217ce532209374df6bcd53876849de529.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Xavier Noria
   last_updated_on: 2016-08-06 17:23:19.000000000 Z
@@ -727,7 +728,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18839/default_db5cfb0d85d9fd8bfb40a863581417a2a57791ab.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: actionpack/actionpack.gemspec
   last_updated_by: Rafael Mendonça França
   last_updated_on: 2023-01-25 15:25:49.000000000 Z
@@ -742,7 +743,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19322/default_329cff62f9ca523933287f87c0ae9d239d32165e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Guillermo Iguaran
   last_updated_on: 2023-06-13 04:44:08.000000000 Z
@@ -756,7 +757,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18845/default_db5cfb0d85d9fd8bfb40a863581417a2a57791ab.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: actionpack/actionpack.gemspec
   last_updated_by: Rafael Mendonça França
   last_updated_on: 2023-01-25 15:25:49.000000000 Z
@@ -770,7 +771,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18829/default_ba8d7756589e5fc0164687950e3f091b32554546.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: zzak
   last_updated_on: 2023-02-06 07:28:56.000000000 Z
@@ -784,7 +785,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Xavier Noria
   last_updated_on: 2016-08-06 17:23:19.000000000 Z
@@ -806,7 +807,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19048/default_f59dec556f76ef878ccb1b8ccfe909880fad26c9.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Jean Boussier
   last_updated_on: 2022-09-06 20:23:50.000000000 Z
@@ -821,10 +822,17 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18962/default_f9bc6c6a5978c018d43da336e52fa9c3d29745bd.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuuji.yaginuma
   last_updated_on: 2017-12-13 22:49:08.000000000 Z
+  vulnerabilities:
+  - name: Resque vulnerable to reflected XSS in Queue Endpoint
+    cve_id: CVE-2023-50727
+    cve_url: https://github.com/advisories/GHSA-r9mq-m72x-257g
+    detected_date: Dec 19
+    severity: moderate
+    first_patched: 2.6.0
 - name: resque-scheduler
   description: Light weight job scheduling on top of Resque
   package_url: https://rubygems.org/resque-scheduler
@@ -835,10 +843,23 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19622/default_d37ff20732085afc2eeb7f1d2b8b65e3bde035f1.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuuji.yaginuma
   last_updated_on: 2017-12-13 22:49:08.000000000 Z
+  vulnerabilities:
+  - name: Resque Scheduler Reflected XSS In Delayed Jobs View
+    cve_id: CVE-2022-44303
+    cve_url: https://github.com/advisories/GHSA-9hmq-fm33-x4xx
+    detected_date: Dec 19
+    severity: moderate
+    first_patched: 4.10.2
+  - name: 'Duplicate Advisory: Resque Scheduler Reflected XSS In Delayed Jobs View'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q7jc-v6f2-q9jr
+    detected_date: Dec 19
+    severity: moderate
+    first_patched: 4.10.2
 - name: rouge
   description: Rouge aims to a be a simple
   package_url: https://rubygems.org/rouge
@@ -849,7 +870,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19110/default_06b56c3cf87200ea8cc83429c79e5c5533c80ede.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Petrik
   last_updated_on: 2020-07-04 08:59:08.000000000 Z
@@ -864,7 +885,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19003/default_ed0106f3a65a9fdb4ffde124a531663be2de70ba.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: zzak
   last_updated_on: 2023-03-15 01:37:11.000000000 Z
@@ -878,7 +899,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19270/default_67289672b0f514dd92f3c786eb2cf0a39b0db10f.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: zzak
   last_updated_on: 2023-03-15 01:37:11.000000000 Z
@@ -892,7 +913,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19731/default_be22d39d0c697424d0da2019daf25b87c93b4c6e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: eileencodes
   last_updated_on: 2023-04-19 20:46:10.000000000 Z
@@ -906,7 +927,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18887/default_1e22ca9f3f63a8c93249bae500705b9451e7e882.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: eileencodes
   last_updated_on: 2023-04-19 20:46:10.000000000 Z
@@ -920,7 +941,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19261/default_4ed5689ec4d74680b66320d503f54e39a95d4848.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Petrik
   last_updated_on: 2023-01-11 11:45:50.000000000 Z
@@ -934,7 +955,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18901/default_f0ad2b1ffbe10fdd866f9f8e5f812599d9e8085b.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Ryuta Kamizono
   last_updated_on: 2021-10-20 13:31:26.000000000 Z
@@ -948,7 +969,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19198/default_be4b4d308c5637e0747ed40c613027452d6ef0c5.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Lázaro Nixon
   last_updated_on: 2023-03-01 05:51:29.000000000 Z
@@ -963,7 +984,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18820/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Yasuo Honda
   last_updated_on: 2022-12-15 23:47:32.000000000 Z
@@ -977,7 +998,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19598/default_88694c513ad6229305b102ea8a6b3d3fbdcd342e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Xavier Noria
   last_updated_on: 2016-08-06 17:23:19.000000000 Z
@@ -991,7 +1012,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19515/default_79ec08d496d1258e943415e14f58ce00d944e392.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Xavier Noria
   last_updated_on: 2016-08-06 17:23:19.000000000 Z
@@ -1019,7 +1040,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19548/default_ec75fa516f46db70c375f72ac2df9cefa613aece.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: utilum
   last_updated_on: 2020-09-21 05:19:59.000000000 Z
@@ -1034,7 +1055,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19420/default_16904f646648128b821ee8aabb068fa7a1b5025f.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Guillermo Iguaran
   last_updated_on: 2023-06-13 04:44:08.000000000 Z
@@ -1049,7 +1070,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18824/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: George Claghorn
   last_updated_on: 2018-12-24 20:16:22.000000000 Z
@@ -1064,7 +1085,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Yasuo Honda
   last_updated_on: 2020-12-13 07:34:39.000000000 Z
@@ -1078,7 +1099,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19792/default_dc562522bb8e27795ab379270f6698f9b4f29fa5.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-10-09 15:03:05.000000000 Z
@@ -1092,7 +1113,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-08-06 12:00:43.000000000 Z
@@ -1106,7 +1127,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-08-06 12:00:43.000000000 Z
@@ -1120,7 +1141,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: rmacklin
   last_updated_on: 2018-11-26 22:16:02.000000000 Z
@@ -1134,7 +1155,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17515/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: rmacklin
   last_updated_on: 2018-11-26 22:16:02.000000000 Z
@@ -1148,7 +1169,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16460/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: rmacklin
   last_updated_on: 2018-11-26 22:16:02.000000000 Z
@@ -1162,7 +1183,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18702/default_803d9095ae52cd39a90bd905df9c2e4583f75904.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: rmacklin
   last_updated_on: 2018-11-26 22:16:02.000000000 Z
@@ -1176,7 +1197,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16078/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/DotEsparto1/railsruby/blob/main/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/yarn.lock
   detection_source: actioncable/package.json
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-08-06 12:00:43.000000000 Z
