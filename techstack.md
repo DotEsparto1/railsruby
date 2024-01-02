@@ -33,8 +33,8 @@ DotEsparto1/railsruby is built on the following main stack:
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - [Istio](https://istio.io/) – Microservices Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Amazon SNS](http://aws.amazon.com/sns/) – Mobile Push Messaging
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -74,8 +74,8 @@ DotEsparto1/railsruby is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/396/amazon-sns.png' alt='Amazon SNS'/> [Amazon SNS](http://aws.amazon.com/sns/) – Mobile Push Messaging
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -86,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/railsruby](https://github.com/DotEsparto1/railsruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|88<br/>Tools used|12/11/23 <br/>Report generated|
+|88<br/>Tools used|01/02/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -445,8 +445,8 @@ Full tech stack [here](/techstack.md)
 |[rdoc](https://rubygems.org/rdoc)|v6.5.0|02/06/23|zzak |Ruby|N/A|
 |[redcarpet](https://rubygems.org/redcarpet)|v3.2.3|08/06/16|Xavier Noria |MIT|[CVE-2020-26298](https://github.com/advisories/GHSA-q3wr-qw3g-3p4h) (Moderate)|
 |[redis-namespace](https://rubygems.org/redis-namespace)|v1.10.0|09/06/22|Jean Boussier |MIT|N/A|
-|[resque](https://rubygems.org/resque)|v2.4.0|12/13/17|yuuji.yaginuma |MIT|N/A|
-|[resque-scheduler](https://rubygems.org/resque-scheduler)|v4.7.0|12/13/17|yuuji.yaginuma |MIT|N/A|
+|[resque](https://rubygems.org/resque)|v2.4.0|12/13/17|yuuji.yaginuma |MIT|[CVE-2023-50727](https://github.com/advisories/GHSA-r9mq-m72x-257g) (Moderate)|
+|[resque-scheduler](https://rubygems.org/resque-scheduler)|v4.7.0|12/13/17|yuuji.yaginuma |MIT|[CVE-2022-44303](https://github.com/advisories/GHSA-9hmq-fm33-x4xx) (Moderate)<br/>[](https://github.com/advisories/GHSA-q7jc-v6f2-q9jr) (Moderate)|
 |[rouge](https://rubygems.org/rouge)|v4.1.0|07/04/20|Petrik |MIT,BSD-2-Clause|N/A|
 |[rubocop-performance](https://rubygems.org/rubocop-performance)|v1.16.0|03/15/23|zzak |MIT|N/A|
 |[rubocop-rails](https://rubygems.org/rubocop-rails)|v2.18.0|03/15/23|zzak |MIT|N/A|
