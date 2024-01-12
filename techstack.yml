@@ -1,8 +1,8 @@
 repo_name: DotEsparto1/railsruby
-report_id: 9506393f05d25cb5b5b1689d69feaf54
+report_id: 3aa006671d89da1fc42c1fef8b14e14b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:44:37+00:00'
+timestamp: '2024-01-12T12:16:46+00:00'
 requested_by: p8
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actionview/test/fixtures/db_definitions/sqlite.sql
   detection_source: actionview/test/fixtures/db_definitions/sqlite.sql
   last_updated_by: Piotr Sarnacki
   last_updated_on: 2013-04-16 22:06:11.000000000 Z
@@ -57,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -67,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/.devcontainer/Dockerfile
   detection_source: ".devcontainer/Dockerfile"
   last_updated_by: Edwin Vlieg
   last_updated_on: 2021-08-23 08:44:29.000000000 Z
@@ -93,6 +99,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/25/amazon-s3.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -104,6 +111,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Petrik
   last_updated_on: 2021-08-23 19:17:59.000000000 Z
@@ -115,6 +123,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -126,6 +135,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Rafael Mendonça França
   last_updated_on: 2016-09-14 00:19:09.000000000 Z
@@ -152,6 +162,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -177,6 +188,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actioncable/.babelrc
   detection_source: actioncable/.babelrc
   last_updated_by: Richard Macklin
   last_updated_on: 2018-01-21 07:33:32.000000000 Z
@@ -188,6 +200,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/rails.gemspec
   detection_source: rails.gemspec
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-10-09 15:03:05.000000000 Z
@@ -214,6 +227,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -224,6 +238,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actioncable/.eslintrc
   detection_source: actioncable/.eslintrc
   last_updated_by: Richard Macklin
   last_updated_on: 2018-01-21 07:33:32.000000000 Z
@@ -235,6 +250,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -244,6 +260,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/.github/workflows/build-and-test-dev-image.yml
   detection_source: ".github/workflows/build-and-test-dev-image.yml"
   last_updated_by: zzak
   last_updated_on: 2023-03-11 23:06:42.000000000 Z
@@ -326,6 +343,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actionpack/actionpack.gemspec
   detection_source: actionpack/actionpack.gemspec
   last_updated_by: Yehuda Katz
   last_updated_on: 2009-09-01 00:20:44.000000000 Z
@@ -352,6 +370,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/railties/test/isolation/assets/package.json
   detection_source: railties/test/isolation/assets/package.json
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-08-26 08:39:36.000000000 Z
@@ -363,6 +382,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/.yarnrc
   detection_source: ".yarnrc"
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2018-10-01 05:31:21.000000000 Z
@@ -374,6 +394,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/activesupport/activesupport.gemspec
   detection_source: activesupport/activesupport.gemspec
   last_updated_by: Yehuda Katz
   last_updated_on: 2009-09-01 00:20:44.000000000 Z
@@ -385,6 +406,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actioncable/package.json
   detection_source: actioncable/package.json
   last_updated_by: David Heinemeier Hansson
   last_updated_on: 2021-08-06 12:00:43.000000000 Z
@@ -396,6 +418,7 @@ tools:
   category: Communications
   sub_category: Mobile Push Messaging
   image_url: https://img.stackshare.io/service/396/amazon-sns.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Jeremy Kemper
   last_updated_on: 2009-11-10 22:59:22.000000000 Z
@@ -407,6 +430,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/actionmailbox/test/dummy/config/environments/production.rb
   detection_source: actionmailbox/test/dummy/config/environments/production.rb
   last_updated_by: Hartley McGuire
   last_updated_on: 2023-02-03 05:45:20.000000000 Z
@@ -433,6 +457,7 @@ tools:
   category: Application Utilities
   sub_category: Task Management
   image_url: https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/railties/railties.gemspec
   detection_source: railties/railties.gemspec
   last_updated_by: Yehuda Katz
   last_updated_on: 2009-09-01 00:20:44.000000000 Z
@@ -445,6 +470,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19547/default_de9db5416684dc69048353b710ca941dc9bac9c3.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Yasuo Honda
   last_updated_on: 2022-12-15 23:47:32.000000000 Z
@@ -1026,6 +1052,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/DotEsparto1/railsruby/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: johnnyshields
   last_updated_on: 2022-09-12 17:44:47.000000000 Z
