@@ -1,8 +1,8 @@
 repo_name: DotEsparto1/railsruby
-report_id: 90a23afd50f47fa2ce2686154cff2256
+report_id: c0a0c0cbfe6ed46419703da4cad3f9c4
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-27T16:37:29+00:00'
+timestamp: '2024-03-01T10:36:40+00:00'
 requested_by: p8
 provider: github
 branch: main
@@ -717,7 +717,7 @@ tools:
   last_updated_on: 2021-01-05 12:52:07.000000000 Z
   vulnerabilities:
   - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
-    cve_id: 
+    cve_id:
     cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
     detected_date: Feb 6
     severity: moderate
@@ -888,7 +888,7 @@ tools:
     severity: moderate
     first_patched: 4.10.2
   - name: 'Duplicate Advisory: Resque Scheduler Reflected XSS In Delayed Jobs View'
-    cve_id: 
+    cve_id:
     cve_url: https://github.com/advisories/GHSA-q7jc-v6f2-q9jr
     detected_date: Dec 19
     severity: moderate
