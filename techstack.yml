@@ -1,8 +1,8 @@
 repo_name: DotEsparto1/railsruby
-report_id: 4cfa0c5fdac71a658d8ffc1ea0e701dc
+report_id: aa3a7fd0c76a77014401c02f31f8194d
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-14T15:30:44+00:00'
+timestamp: '2024-03-14T17:39:24+00:00'
 requested_by: p8
 provider: github
 branch: main
@@ -765,6 +765,25 @@ tools:
   detection_source: actionpack/actionpack.gemspec
   last_updated_by: Rafael Mendonça França
   last_updated_on: 2023-01-25 15:25:49.000000000 Z
+  vulnerabilities:
+  - name: Rack vulnerable to ReDoS in content type parsing (2nd degree polynomial)
+    cve_id: CVE-2024-25126
+    cve_url: https://github.com/advisories/GHSA-22f2-v57c-j9cx
+    detected_date: Feb 29
+    severity: low
+    first_patched: 3.0.9.1
+  - name: Rack Header Parsing leads to Possible Denial of Service Vulnerability
+    cve_id: CVE-2024-26146
+    cve_url: https://github.com/advisories/GHSA-54rr-7fvw-6x8f
+    detected_date: Feb 29
+    severity: low
+    first_patched: 3.0.9.1
+  - name: Rack has possible DoS Vulnerability with Range Header
+    cve_id: CVE-2024-26141
+    cve_url: https://github.com/advisories/GHSA-xj5v-6v4g-jfw6
+    detected_date: Feb 29
+    severity: low
+    first_patched: 3.0.9.1
 - name: rack-cache
   description: Rack::Cache is suitable as a quick drop-in component to enable HTTP
     caching for Rack-based applications that produce freshness
