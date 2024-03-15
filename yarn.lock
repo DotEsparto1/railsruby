@@ -498,10 +498,6 @@ array-includes@^3.1.6:
     get-intrinsic "^1.1.3"
     is-string "^1.0.7"
 
-array-slice@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/array-slice/-/array-slice-0.2.3.tgz#dd3cfb80ed7973a75117cdac69b0b99ec86186f5"
-  integrity sha512-rlVfZW/1Ph2SNySXwR9QYkChp8EkOEiTMO5Vwx60usw04i4nWemkm9RXmQqgkQFaLHsqLuADvjp6IfgL9l2M8Q==
 
 array-unique@^0.2.1:
   version "0.2.1"
@@ -3498,12 +3494,6 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
 
-p-limit@^2.0.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.3.0.tgz#3dd33c647a214fdfffd835933eb086da0dc21db1"
-  integrity sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w==
-  dependencies:
-    p-try "^2.0.0"
 
 p-locate@^3.0.0:
   version "3.0.0"
@@ -4857,18 +4847,6 @@ watchpack@^1.7.4:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
 
-wd@^1.4.0:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/wd/-/wd-1.14.0.tgz#1fe6450b5baef37caa135e7755292c6998ca8a90"
-  integrity sha512-X7ZfGHHYlQ5zYpRlgP16LUsvYti+Al/6fz3T/ClVyivVCpCZQpESTDdz6zbK910O5OIvujO23Ym2DBBo3XsQlA==
-  dependencies:
-    archiver "^3.0.0"
-    async "^2.0.0"
-    lodash "^4.0.0"
-    mkdirp "^0.5.1"
-    q "^1.5.1"
-    request "2.88.0"
-    vargs "^0.1.0"
 
 webpack-sources@^1.4.0, webpack-sources@^1.4.1:
   version "1.4.3"
