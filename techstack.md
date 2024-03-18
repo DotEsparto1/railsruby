@@ -8,7 +8,6 @@ DotEsparto1/railsruby is built on the following main stack:
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
 - [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - [MySQL](http://www.mysql.com) – Databases
@@ -49,7 +48,6 @@ DotEsparto1/railsruby is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/25/amazon-s3.png' alt='Amazon S3'/> [Amazon S3](http://aws.amazon.com/s3) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
@@ -86,7 +84,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/railsruby](https://github.com/DotEsparto1/railsruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|88<br/>Tools used|03/15/24 <br/>Report generated|
+|87<br/>Tools used|03/18/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -135,7 +133,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (2)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'>
@@ -143,14 +141,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://nodejs.org/">Node.js</a></sub>
   <br>
   <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'>
-  <br>
-  <sub><a href="http://jquery.com/">jQuery</a></sub>
-  <br>
-  <sub>v2.2.0</sub>
 </td>
 
 </tr>
