@@ -84,7 +84,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/railsruby](https://github.com/DotEsparto1/railsruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|87<br/>Tools used|03/19/24 <br/>Report generated|
+|87<br/>Tools used|03/21/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -426,7 +426,7 @@ Full tech stack [here](/techstack.md)
 |[minitest](https://rubygems.org/minitest)|v5.17.0|06/15/22|eileencodes |MIT|N/A|
 |[msgpack](https://rubygems.org/msgpack)|v1.7.0|03/22/23|Jonathan Hefner |Apache-2.0|N/A|
 |[mysql2](https://rubygems.org/mysql2)|v0.5.4|05/04/22|Jean Boussier |MIT|N/A|
-|[nokogiri](https://rubygems.org/nokogiri)|v1.15.2|01/05/21|Ryuta Kamizono |MIT|[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)|
+|[nokogiri](https://rubygems.org/nokogiri)|v1.15.2|01/05/21|Ryuta Kamizono |MIT|[](https://github.com/advisories/GHSA-vcc3-rw6f-jv97) (Moderate)<br/>[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)|
 |[pg](https://rubygems.org/pg)|v1.5.3|11/10/09|Jeremy Kemper |BSD-2-Clause|N/A|
 |[racc](https://rubygems.org/racc)|v1.6.2|08/06/16|Xavier Noria |BSD-2-Clause|N/A|
 |[rack](https://rubygems.org/rack)|v3.0.8|01/25/23|Rafael Mendonça França |MIT|[CVE-2024-25126](https://github.com/advisories/GHSA-22f2-v57c-j9cx) (Low)<br/>[CVE-2024-26146](https://github.com/advisories/GHSA-54rr-7fvw-6x8f) (Low)<br/>[CVE-2024-26141](https://github.com/advisories/GHSA-xj5v-6v4g-jfw6) (Low)|
